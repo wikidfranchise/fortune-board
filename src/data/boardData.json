@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Alice Johnson", "ranking": 5, "company": "Company A" },
+    { "id": 2, "name": "Bob Smith", "ranking": 3, "company": "Company B" },
+    { "id": 3, "name": "Carol Lee", "ranking": 1, "company": "Company C" }
+  ]
+  
